@@ -27,7 +27,7 @@
             <li><a href="servicos.php">Serviços</a></li>
             <li><a href="contato.php">Contato</a></li>
             <li><a href="local.php">Localização</a></li>
-            <li><a href="">Eventos</a></li>
+            <li><a href="eventos.php">Eventos</a></li>
         </ul>
     </nav>
 

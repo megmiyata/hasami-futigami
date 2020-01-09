@@ -12,7 +12,7 @@
 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut dolores quasi corrupti sapiente obcaecati ipsa? A reprehenderit ipsum, nisi id dolorum quas similique explicabo, modi nihil, non repudiandae harum nobis.</p>
 
-                    <img src="assets/img/cabelo-homi.jpg" class="img-fluid" alt="Cabelo masculino">  
+                    <img src="assets/img/barber.jpg" class="img-fluid" alt="equipamentos">  
 
                 </div>
             </div>

@@ -18,6 +18,8 @@
 
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum in, itaque consectetur nesciunt possimus, sapiente incidunt velit, excepturi quisquam expedita optio libero qui assumenda a voluptatibus tenetur dicta quam ratione.</p>
 
+                    <img src="assets/img/make2.jpg" class="img-fluid" alt="make">  
+
 
                 </div>
             </div>
