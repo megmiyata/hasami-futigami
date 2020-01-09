@@ -5,7 +5,10 @@
     
 ?>
 
-    <div class="servicos container mt-3"> 
+    <div class="servicos container text-center mt-3"> 
+
+        <h1>Serviços</h1>
+
         <div class="row">
             <div class="col-md-6 col-lg-3">
                 <div class="card">
