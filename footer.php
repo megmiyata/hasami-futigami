@@ -2,24 +2,27 @@
     <footer>
 
         <div class="container">
-            <div class="row">
+            <div class="">
 
-                <div>
+                <div class="">
                     <p>Hassami Futigami</p> 
                 </div>
 
-                <div>
+                <div class="">
                     <i class="fab fa-whatsapp"> (11) XXXXX-XXXX</i>
 
                 </div>
+
+                <div class="">
+                    <a href="https://www.instagram.com" target="_blank" title="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+        
+                    <a href="https://www.facebook.com/" target="_blank" title="Facebook">
+                        <i class="fab fa-facebook-square"></i>
+                    </a>
+                </div>
                 
-                <a href="https://www.instagram.com/moonlovers___/" target="_blank" title="Instagram">
-                    <i class="fab fa-instagram"></i>
-                </a>
-    
-                <a href="https://www.instagram.com/moonlovers___/" target="_blank" title="Facebook">
-                    <i class="fab fa-facebook-square"></i>
-                </a>
 
             </div>
 
