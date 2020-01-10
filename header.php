@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/header.css">
-    <link rel="stylesheet" href="assets/css/index.css">
+    <link rel="stylesheet" href="assets/css/home.css">
     <link rel="stylesheet" href="assets/css/footer.css">
     <script defer src="https://kit.fontawesome.com/c9300953f9.js" crossorigin="anonymous"></script>
 </head>
@@ -22,12 +22,12 @@
 
     <nav>
         <ul class="container">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="sobre.php">Sobre</a></li>
-            <li><a href="servicos.php">Serviços</a></li>
-            <li><a href="contato.php">Contato</a></li>
-            <li><a href="local.php">Localização</a></li>
-            <li><a href="eventos.php">Eventos</a></li>
+            <li><a href="home">Home</a></li>
+            <li><a href="sobre">Sobre</a></li>
+            <li><a href="servicos">Serviços</a></li>
+            <li><a href="contato">Contato</a></li>
+            <li><a href="local">Localização</a></li>
+            <li><a href="eventos">Eventos</a></li>
         </ul>
     </nav>
 

@@ -1,0 +1,13 @@
+
+RewriteEngine On
+RewriteRule %{REQUEST_FILENAME} !-f
+RewriteRule %{REQUEST_FILENAME} !-d
+
+RewriteRule ^home$ index.php?page=home [QSA,L,NC]
+RewriteRule ^index$ index.php?page=home [QSA,L,NC]
+RewriteRule ^contato$ index.php?page=contato [QSA,L,NC]
+RewriteRule ^eventos$ index.php?page=eventos [QSA,L,NC]
+RewriteRule ^local$ index.php?page=local [QSA,L,NC]
+RewriteRule ^localizacao$ index.php?page=local [QSA,L,NC]
+RewriteRule ^servicos$ index.php?page=servicos [QSA,L,NC]
+RewriteRule ^sobre$ index.php?page=sobre [QSA,L,NC]
